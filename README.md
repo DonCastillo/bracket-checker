@@ -1,4 +1,4 @@
-Bracket Checker Program 
+## Bracket Checker Program 
 * by Don Castillo
 don.castillo@uleth.ca
 Student#: 001224541
